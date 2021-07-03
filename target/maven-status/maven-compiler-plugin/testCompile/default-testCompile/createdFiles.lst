@@ -1,0 +1,8 @@
+cucumber\api\junit\cucumber.class
+com\petSmile\ReservaHora\UsuarioTest.class
+com\petSmile\ReservaHora\AgendaTest.class
+TestRunner\Runner.class
+StepDefinition\Steps.class
+TestSelenium\NewTest.class
+com\petSmile\ReservaHora\PropietarioTest.class
+com\petSmile\ReservaHora\MascotaTest.class
